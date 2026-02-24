@@ -3,9 +3,9 @@ Pertemuan  Belajar Membuat project sederhana dengan Express
 
 
 
-Cara membuat project:
+<H1>CARA MEMBUAT PROJECT : </H1>
 1.Buat Folder baru<br>
-2.masuk kedalam folder dengan perintah cd nama_folder dari terminal<br>
+2.masuk kedalam folder dengan perintah <b>cd nama_folder</b> dari terminal<br>
 3.kenalkan project dalam folder dengan perintah npm init membuat package.json ini sesuai dengan identitas project di akhiri dengan ketik"yes"<br>
 4.install depedenci/package express dengan perintah <b>"npm i express"</br>
 5.buat file <b>index.js</b> untuk file utama project "Server ada disini"<br>
