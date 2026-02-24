@@ -1,0 +1,20 @@
+{
+  "name": "pertemuan-1",
+  "version": "1.0.0",
+  "description": "Belajar Express JS",
+  "keywords": [
+    "Belajar",
+    "Express",
+    "js"
+  ],
+  "license": "ISC",
+  "author": "Nadiril",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}

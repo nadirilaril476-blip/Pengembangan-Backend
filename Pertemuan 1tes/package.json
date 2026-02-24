@@ -1,0 +1,15 @@
+{
+  "name": "pertemuan-1tes",
+  "version": "1.0.0",
+  "description": "Latihan",
+  "license": "ISC",
+  "author": "NadirilAril",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
