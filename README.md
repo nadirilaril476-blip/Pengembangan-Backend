@@ -25,3 +25,44 @@
   7.Tunggu proses dan kemudian buka browser dan ketikkan http://localhost:port<br>
 </li>
 </ul>
+# Pengembangan Backend
+
+![License](https://img.shields.io/github/license/MNadirilkhoir/Pengembangan-Backend)
+![Issues](https://img.shields.io/github/issues/MNadirilkhoir/Pengembangan-Backend)
+
+Proyek ini adalah repositori yang didedikasikan untuk pengembangan sisi server (backend), mencakup implementasi API, manajemen database, dan logika bisnis aplikasi.
+
+## 🚀 Fitur Utama
+
+- **RESTful API**: Arsitektur API yang bersih dan terstandarisasi.
+- **Autentikasi & Otorisasi**: Pengamanan akses menggunakan JWT atau metode serupa.
+- **Manajemen Database**: Integrasi dengan database (SQL/NoSQL) untuk penyimpanan data yang persisten.
+- **Middleware**: Penanganan error, logging, dan validasi data secara terpusat.
+- **Keamanan**: Implementasi proteksi dasar seperti hashing password dan CORS.
+
+## 🛠️ Teknologi yang Digunakan
+
+Proyek ini dibangun menggunakan teknologi berikut:
+
+- **Bahasa Pemrograman**: Node.js / JavaScript
+- **Framework**: Express.js
+- **Database**: [Sebutkan Database, misal: MongoDB / PostgreSQL]
+- **Library Lain**: 
+  - Dotenv (Manajemen variabel lingkungan)
+  - Nodemon (Development environment)
+  - [Tambahkan library lain jika ada]
+
+## 📋 Prasyarat Instalasi
+
+Pastikan Anda telah menginstal perangkat lunak berikut di mesin lokal Anda:
+
+- [Node.js](https://nodejs.org/) (Versi LTS direkomendasikan)
+- [NPM](https://www.npmjs.com/) atau [Yarn](https://yarnpkg.com/)
+- [Git](https://git-scm.com/)
+
+## ⚙️ Cara Instalasi
+
+1. **Clone Repositori**
+   ```bash
+   git clone [https://github.com/MNadirilkhoir/Pengembangan-Backend.git](https://github.com/MNadirilkhoir/Pengembangan-Backend.git)
+   cd Pengembangan-Backend
